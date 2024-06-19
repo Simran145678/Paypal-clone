@@ -15,3 +15,5 @@ demonstrating front-end development skills and attention to detail.
 **HTML**: For the structural elements and content organization.
 **CSS**: For styling, including responsive design to ensure the site looks good on various devices.
 **JavaScript**: For adding interactivity and dynamic behavior.
+
+![project-5](https://github.com/Simran145678/Paypal-clone/assets/67065873/04a41c87-10da-4090-aa06-1d7d6f562ee6)
